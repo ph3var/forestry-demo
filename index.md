@@ -1,5 +1,5 @@
 ---
-title: Home | Mobile Conveyancing | Perth Australia
+title: Home
 banner_image: "/uploads/2018/07/24/890686918-2048x2048.jpg"
 layout: landing-page
 heading: Field Conveyancing
