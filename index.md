@@ -17,14 +17,11 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Mobile Conveyancing Perth
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Field Conveyancin
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
